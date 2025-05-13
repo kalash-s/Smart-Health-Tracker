@@ -1,4 +1,7 @@
-# Employee-Salary-Manager(Java Project)
+# Smart Health Tracker(Java Project)
 
 ## Overview
-This project is a Java-based employee salary management system that calculates the total salary of employees based on their job band (A > B > C > D). The project demonstrates key Object-Oriented Programming (OOP) concepts such as **abstraction**, **inheritance**, **polymorphism**, and **encapsulation**.
+A Java-based CLI project to track health records, medications, and doctor visits. Designed with OOP concepts to support structured and personal health tracking.
+
+# Features
+- Add and manage user profiles
